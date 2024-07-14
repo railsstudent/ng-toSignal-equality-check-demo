@@ -1,5 +1,12 @@
 # NgToSignalEqualityCheckDemo
 
+# Deploy to Github Page
+```bash
+./deploy-github-page.sh
+```
+
+Github Page: https://railsstudent.github.io/ng-toSignal-equality-check-demo/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 
 ## Development server
